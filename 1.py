@@ -1,15 +1,6 @@
 # puzzle 1
 
 
-def debug():
-  try:
-    import time, os, sys, random
-    # you might not need all these modules for this puzzle, but you'll have to figure it out!
-  except ImportError:
-    print('Your modules didn\'t import correctly... try fixing your spelling!')
-debug()
-
-
 # you've been set up with a test list:
 mylist = ['these', 'are', 'example', 'items']
 
