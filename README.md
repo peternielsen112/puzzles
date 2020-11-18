@@ -1,13 +1,18 @@
 # puzzles
+**CONTENTS**
+[Instructions] (https://github.com/peternielsen112/puzzles/blob/main/README.md#instructions)
+[Problems] (https://github.com/peternielsen112/puzzles/blob/main/README.md#problems)
+[Hints] (https://github.com/peternielsen112/puzzles/blob/main/README.md#hints)
+[Solutions] (https://github.com/peternielsen112/puzzles/blob/main/README.md#my%20solutions)
 Puzzles for Thanksgiving break.
 
 Have fun and give it your best shot!
 
-**Instructions:**
+#### Instructions
 
 Clone this repo either to your local machine or to Repl.it (https://repl.it/languages/python3). If you would like to save your work on Repl.it, make sure to sign in before visiting the link.
 
-**Problems:**
+#### Problems
 
 1: Write a Python program that:
 
@@ -25,10 +30,10 @@ Clone this repo either to your local machine or to Repl.it (https://repl.it/lang
     The code for this program should be placed in the file 2.py
 
 
-**Hints:**
+#### Hints:
 
 
 
-**My Solutions [DON'T LOOK AT THESE UNTIL YOU'RE DONE]:**
+#### My Solutions
 
 If you have questions text on the Slack (https://join.slack.com/t/dvgate/shared_invite/zt-ijp1fq2e-mi5WmevnbcgzzI6YefK9gQ). Follow the instructions to set up an account if you don't have one. Use the "puzzles" channel.
