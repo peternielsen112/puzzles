@@ -29,6 +29,6 @@ Clone this repo either to your local machine or to Repl.it (https://repl.it/lang
 
 
 
-**My Solutions:**
+**My Solutions [DON'T LOOK AT THESE UNTIL YOU'RE DONE]:**
 
 If you have questions text on the Slack (https://join.slack.com/t/dvgate/shared_invite/zt-ijp1fq2e-mi5WmevnbcgzzI6YefK9gQ). Follow the instructions to set up an account if you don't have one. Use the "puzzles" channel.
