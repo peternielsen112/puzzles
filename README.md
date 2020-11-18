@@ -46,22 +46,22 @@ Clone this repo either to your local machine or to Repl.it (https://repl.it/lang
 
 ###### 1: Write a Python program that:
 
-    a) Prompts the user to write a list of words (for example, ['apple', 'mango', 'cashew']). 
+> a) Prompts the user to write a list of words (for example, ['apple', 'mango', 'cashew']). 
     
-    b) Once the list has been entered, the program will ask for a word to search for.
+> b) Once the list has been entered, the program will ask for a word to search for.
     
-    c) The program will then say the number of times the word was found in the list, or display a message that the word wasn't found. For example: "___ was found 3 times" or "___ wasn't found."
+> c) The program will then say the number of times the word was found in the list, or display a message that the word wasn't found. For example: "___ was found 3 times" or "___ wasn't found."
 
 The code for this program should be placed in the file 1.py. You may want to check the hints on this one, because there's some complicated input logic.
 
 
 ###### 2:  Write another Python program that:
 
-    a) Prompts the user to give a number, an INTEGER only.
+> a) Prompts the user to give a number, an INTEGER only.
     
-    b) Prints every number up to the given number.
+> b) Prints every number up to the given number.
     
-    c) Gives the time it took to print every number up to the user's number.
+> c) Gives the time it took to print every number up to the user's number.
     
 The code for this program should be placed in the file 2.py
 
