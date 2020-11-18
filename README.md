@@ -1,9 +1,14 @@
 # puzzles
 **CONTENTS**
 [Instructions](https://github.com/peternielsen112/puzzles/blob/main/README.md#instructions)
+
 [Problems](https://github.com/peternielsen112/puzzles/blob/main/README.md#problems)
+
 [Hints](https://github.com/peternielsen112/puzzles/blob/main/README.md#hints)
+
 [Solutions](https://github.com/peternielsen112/puzzles/blob/main/README.md#my%20solutions)
+
+
 Puzzles for Thanksgiving break.
 
 Have fun and give it your best shot!
