@@ -135,7 +135,9 @@ You might not recognize some parts of this loop, for example, the `while x <= nu
 >***NOTE:*** An important thing to know is the `break` command. When put inside a loop, it will break the loop instantly regardless of when the loop was specified to break. For example:
 >
 >>    `while True:`
+>>
 >>        `print(1)`
+>>
 >>        `break`
 
 This will print the number 1 *one* time, then break the loop. Without the `break` line in the loop, it would print the number 1 forever unless stopped by external means.
