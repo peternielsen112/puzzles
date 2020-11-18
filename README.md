@@ -13,9 +13,9 @@ These puzzles may be hard, and that's okay. Keep on giving it your best work, an
 
 [Problems](#problems)
 
-[Hints](https://github.com/peternielsen112/puzzles/blob/main/README.md#hints)
+[Hints](#hints)
 
-[Solutions](#my%20solutions)
+[Solutions](#my-solutions)
 
 
 #### Instructions
