@@ -1,20 +1,22 @@
 # puzzles
-**CONTENTS**
-
-[Instructions](https://github.com/peternielsen112/puzzles/blob/main/README.md#instructions)
-
-[Problems](https://github.com/peternielsen112/puzzles/blob/main/README.md#problems)
-
-[Hints](https://github.com/peternielsen112/puzzles/blob/main/README.md#hints)
-
-[Solutions](https://github.com/peternielsen112/puzzles/blob/main/README.md#my%20solutions)
-
 
 Puzzles for Thanksgiving break.
 
 Have fun and give it your best shot!
 
 These puzzles may be hard, and that's okay. Keep on giving it your best work, and you'll get it. Remember, Google and Stack Overflow are your friends.
+
+
+***CONTENTS***
+
+[Instructions](#instructions)
+
+[Problems](#problems)
+
+[Hints](https://github.com/peternielsen112/puzzles/blob/main/README.md#hints)
+
+[Solutions](#my%20solutions)
+
 
 #### Instructions
 
