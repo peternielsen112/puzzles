@@ -17,6 +17,8 @@ These puzzles may be hard, and that's okay. Keep on giving it your best work, an
     
     - [Puzzle 2](#2-write-another-python-program-that)
 
+    - [Puzzle 3](#3-wrie-a-third-python-program-that)
+
 - [Conclusion](#conclusion)
 
 
@@ -49,10 +51,23 @@ The code for this program should be placed in the file list-check.py. You may wa
     
 > c) Gives the time it took to print every number up to the user's number.
     
-The code for this program should be placed in the file number-counter.py
+The code for this program should be placed in the file number-counter.py.
+
+
+###### 3: Write a third Python program that:
+
+> a) Chooses a random number between 1 and 100
+
+> b) While the player or user has not guessed the number (use `input`) print if their latest guess is higher or lower
+
+> c) Counts the number of guesses the player takes
+
+> d) And finally, tells the user they were right (when they guess the right number), tells them the number, and the number of tries they needed.
+
+The code for this program should be placed in the file guessing-game.py.
 
 
 
 ### Conclusion
 
-In these puzzles, you learned basic logic of `if`, `else`, and `while`. You also learned about modules, and more specifically, the `time` module and how to use it, if at least minimally. You learned about `f` strings and you built two programs that created specific functions. After break, we'll do more in Python and work through how to create more complex programs.
+In these puzzles, you learned basic logic of `if`, `else`, and `while`. You also learned about modules, and more specifically, the `time` and `random` modules and how to use them, if at least minimally. You learned about `f` strings and you built three programs that created specific functions. After break, we'll do more in Python and work through how to create more complex programs.

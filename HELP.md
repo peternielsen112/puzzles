@@ -7,6 +7,8 @@
     - [Puzzle 1](#puzzle-1-hints)
     
     - [Puzzle 2](#puzzle-2-hints)
+
+    - [Puzzle 3](#puzzle-3-hints)
     
     - [More Help](#other-help)
 
@@ -45,7 +47,6 @@ Continue onward and work through it, using `if` logic:
         print(f'{check} is not in the list.')
 
 And that's it! You're done! Try running the program on Repl.it to see if it works. If it doesn't, look for any mistakes.
-
 
 
 ###### Puzzle 2 Hints
@@ -104,8 +105,49 @@ The variable `t2` is the time *after* the loop has run its course. The variable 
 After that, you're done! Good job. If you ran into any problems, go to the [Solutions](#my-solutions) section and check to see if you have it completely right.
 
 
+###### Puzzle 3 Hints
+
+To achieve the randomness of the number to guess, we'll need to import a module called `random`:
+
+    import random
+
+Then, we'll set the number that the player will have to guess:
+
+    num = random.randint(0,100)
+
+This calls a module function from `random` to get a random number in a range.
+
+Next, we set up the variable `tries` to make sure that we can count the number of tries:
+
+    tries = 0
+
+After this, we'll set up our `while` loop:
+
+    while True:
+        guess = input('Enter your guess... ')
+        if guess > input:
+            print('That number is too high. Try again!')
+            tries += 1
+        elif guess < input:
+            print('That number is too low. Try again!')
+            tries += 1
+        elif guess == input:
+            print('You guessed it right!')
+            tries += 1
+            break
+
+The `while True` tells Python that until you break the loop with `break`, it should run this. Then, the variable `guess` is updated to get new user input. Directly afterwards, `if` and `elif` (which means *else if*, or basically do this regardless of whether or not the preceding condition applies). The logic tells the user if their guess is too low or too high, or if they guessed it right. It also adds 1 to `tries` for each guess.
+
+Finally, we give the user their information:
+
+    print(f'You did it! The number was {num} and it took you {tries} tries to guess it.)
+
+And with that, you've completed the last puzzle.
+
+
 ###### Other Help
 Finally, if you have questions that you can't fix with Google, Stack Overflow, or these hints, text on the Slack [(sign up here)](https://join.slack.com/t/dvgate/shared_invite/zt-ijp1fq2e-mi5WmevnbcgzzI6YefK9gQ). Follow the instructions to set up an account if you don't have one. Use the "puzzles" channel.
+
 
 
 ### My Solutions
@@ -133,3 +175,23 @@ Finally, if you have questions that you can't fix with Google, Stack Overflow, o
     t2 = time.time()
     t3 = t2 - t1
     print(f'I told you so! It took {t3} seconds to count to {num}.')
+
+
+###### Puzzle 3 Solution
+
+    import random
+    num = random.randint(0,100)
+    tries = 0
+    while True:
+        guess = input('Enter your guess... ')
+        if guess > input:
+            print('That number is too high. Try again!')
+            tries += 1
+        elif guess < input:
+            print('That number is too low. Try again!')
+            tries += 1
+        elif guess == input:
+            print('You guessed it right!')
+            tries += 1
+            break
+    print(f'You did it! The number was {num} and it took you {tries} tries to guess it.)
