@@ -146,7 +146,7 @@ And with that, you've completed the last puzzle.
 
 
 ###### Other Help
-Finally, if you have questions that you can't fix with Google, Stack Overflow, or these hints, text on the Slack [(sign up here)](https://join.slack.com/t/dvgate/shared_invite/zt-ijp1fq2e-mi5WmevnbcgzzI6YefK9gQ). Follow the instructions to set up an account if you don't have one. Use the "puzzles" channel.
+Finally, if you have questions that you can't fix with Google, Stack Overflow, or these hints, check out the solutions below.
 
 
 

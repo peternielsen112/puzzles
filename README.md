@@ -1,5 +1,4 @@
-# Puzzles for Break
-Puzzles for Thanksgiving break.
+# Python Puzzles 1
 
 Have fun and give it your best shot!
 
